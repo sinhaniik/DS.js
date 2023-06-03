@@ -1,0 +1,15 @@
+{
+  "name": "my_electron_app",
+  "version": "1.0.0",
+  "description": "open source version of run.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Nikhil Sinha",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.0.1"
+  }
+}
